@@ -61,7 +61,7 @@ body {
 
 }
 .letter-content {
-    overflow-y: visible;
+    overflow-y: auto;
     width: 100%;
     height: auto;
     font-size: 13px;
