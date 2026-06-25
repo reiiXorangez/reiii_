@@ -23,7 +23,7 @@ body {
   background-color: #cbd6e1;
   transform: translateY(0) !important;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  overflow: hidden;
+  overflow: visible;
 }
 
 
