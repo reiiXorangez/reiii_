@@ -55,7 +55,7 @@ body {
   transform: translateY(0);
   transition: transform 0.5s ease;
   z-index: 1;
-  overflow: hidden !important;
+  overflow: visible;
   display: flex;
   
 
